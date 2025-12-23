@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 first file
 hello
+=======
+first file--hello
+updated
+>>>>>>> b1
