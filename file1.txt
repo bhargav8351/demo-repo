@@ -1,8 +1,9 @@
-<<<<<<< HEAD
+
 first file
 hello
-=======
+
 first file--hello
 updated
->>>>>>> b1
+
 updated in remote repo
+update file
